@@ -3,4 +3,9 @@ hii git
 
 
 hii iam create code
+
+
+
  
+proot error: '/data/data/com.termux/files/home/manjura/man/manjaro-fs/usr/bin/env' is a 64-bit program whereas this version of proot handles 32-bit programs only
+proot info: vpid 1: terminated with signal 11
