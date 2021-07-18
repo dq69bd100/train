@@ -3,3 +3,22 @@ proot warning: can't chdir("/root/.") in the guest rootfs: No such file or direc
 proot info: default working directory is now "/"
 proot error: '/usr/bin/env' not found (root = /data/data/com.termux/files/home/Linux/kali-fs, cwd = /, $PATH=(null))
 fatal error: see `proot --help`
+
+
+
+
+
+======
+today my day
+ proot warning: can't sanitize binding "kali-fs/root": No such file or directory
+proot warning: can't chdir("/root/.") in the guest rootfs: No such file or directory
+proot info: default working directory is now "/"
+proot error: '/usr/bin/env' not found (root = /data/data/com.termux/files/home/Linux/kali-fs, cwd = /, $PATH=(null))
+fatal error: see `proot --help`
+
+
+
+
+
+======
+today my day
