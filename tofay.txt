@@ -1,0 +1,2 @@
+today i learned how to connect vnc server
+
